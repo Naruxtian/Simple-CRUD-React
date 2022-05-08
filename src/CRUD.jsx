@@ -62,7 +62,7 @@ function CRUD() {
   };
 
   return (
-    <div className="Container m-5">
+    <div className="container m-5">
       <h1 className="text-center">CRUD Simple</h1>
       <hr />
       <div className="row">
